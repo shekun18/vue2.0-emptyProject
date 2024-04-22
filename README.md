@@ -1,2 +1,24 @@
-# vue2.0-emptyProject
-该项目是一个vue2.0版本的空项目，可以直接拉取，不用在本地重新创建
+# truelove_dashboard
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
